@@ -1,14 +1,21 @@
 * {
-  background: #fff;
+  background: blue;
 }
 
+.main {
+  background-color: white;
+}
 #id1 {
   width: 50%;
-  /* height: ; */
+  height: 100px;
   background-color: #ff671f;
+}
+#img {
+  height: 50px;
+  padding: 5px 50px;
 }
 #id2 {
   width: 50%;
-  /* height: ; */
+  height: 100px;
   background-color: #046a38;
 }
